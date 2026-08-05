@@ -1,0 +1,40 @@
+audio/6637272350457856.mp3
+music -
+audio/DashballTheme.mp3
+music -
+audio/menu theme.mp3
+music -
+audio/neutral-theme.mp3
+music -
+audio/speedballs-theme.mp3
+music -
+images/Dash Blush.png
+image 1378,1378
+images/Dash Cry.png
+image 1500,894
+images/Dash Normal.png
+image 1378,1378
+images/Dash angry.png
+image 1378,1378
+images/Speed Angry old.png
+image 920,920
+images/Speed Angry.png
+image 1378,1378
+images/Speed Blush old.png
+image 920,920
+images/Speed Blush.png
+image 1378,1378
+images/Speed Normal old.png
+image 920,920
+images/Speed Normal.png
+image 1378,1378
+images/bg Grass field old.png
+image 1920,1080
+images/bg Grass field.png
+image 1920,1080
+images/bg Sky.png
+image 1920,1080
+images/bg basket.webp
+image 3264,2448
+images/bg end.png
+image 1920,1080
