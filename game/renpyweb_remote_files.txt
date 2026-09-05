@@ -2,6 +2,10 @@ audio/6637272350457856.mp3
 music -
 audio/DashballTheme.mp3
 music -
+audio/MarvelMusical.mp3
+music -
+audio/Teaser trailer music.mp3
+music -
 audio/menu theme.mp3
 music -
 audio/neutral-theme.mp3
@@ -16,6 +20,8 @@ images/Dash Normal.png
 image 1378,1378
 images/Dash angry.png
 image 1378,1378
+images/MarvelMusical.mp4
+video -
 images/Speed Angry old.png
 image 920,920
 images/Speed Angry.png
@@ -38,3 +44,7 @@ images/bg basket.webp
 image 3264,2448
 images/bg end.png
 image 1920,1080
+images/logo.png
+image 1546,832
+logo.jpeg
+image 1583,802

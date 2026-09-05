@@ -3,8 +3,6 @@
 # Declare characters used by this game. The color argument colorizes the
 # name of the character.
 
-define e = Character("")
-
 
 # The game starts here.
 
@@ -49,6 +47,7 @@ label start:
                   "Barrel" "No yall Dont"
                   "Jayisnotpro346" "FUCK OFF Your not even real"
                   "After this whole whatever this is  you guys go to the park for a Date IN the demo build cuz we are so fucking lazy stupid fat chuds so were cutting the whole game short because we got lazy"
+                  "Dateball will RETURN IN Schoolboys Forever"
 
                  
                 "Die":
@@ -85,6 +84,7 @@ label start:
                      "And after a few hours of planning the date and waiting for dashball in the Basketball court"
                      "Dashball" "Yo Dateball"
                      "unclemikey" "because we are lazy and this route will be on hold until full release"
+                     "Dateball will RETURN IN Schoolboys Forever"
                     
 
                     "Who are you?":
@@ -105,7 +105,10 @@ label start:
                      scene bg basket
                      "And after a few hours of planning the date and waiting for dashball in the Basketball court"
                      "Dashball" "Yo Dateball"
+                     "Dateball" "Hi Dashball"
+                     "Dateball" "So I guess we will be playing Basketball?"
                      "unclemikey" "because we are lazy and this route will be on hold until full release"
+                     "Dateball will RETURN IN Schoolboys Forever"
 
 
 
@@ -114,10 +117,28 @@ label start:
                 
 
         "get far away as possible im not talking to sentient balls even if im one":
-            "You Run away into the mountains infact you went so far that you reached dageastan and you are forgotten to 2 to 3 years"
+            jump far
 
         "truck":
             "a truck falls from the sky for no apparent reason and crushes the two balls"
-            
+         
 
     return
+
+
+label far:
+    "You Run away into the mountains infact you went so far that you reached dageastan and you are forgotten to 2 to 3 years"
+    return
+
+
+
+
+
+label splashscreen:
+    scene black with dissolve
+    pause (1)
+    show logo with dissolve
+    pause (1)
+    return
+
+
