@@ -1,4 +1,4 @@
-var cacheName = 'origins-dating-simualtor-demo';
+var cacheName = 'origins-dating-simualtor';
 
 /* Start the service worker and cache all of the app's content or use the existing one */
 self.addEventListener('install', function (e) {
